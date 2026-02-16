@@ -1,11 +1,19 @@
+/**
+ * OOPS Banner App - Main Class
+ * 
+ * @author Developer
+ * @version 1.0
+ * Use Case 1: Print the literal text "OOPS" to the console
+ */
 public class Main {
+    
+    /**
+     * Main method - Entry point of the application
+     * Prints "OOPS" to the console
+     * 
+     * @param args Command line arguments (not used)
+     */
     public static void main(String[] args) {
-        // This prints a message to the console
-        System.out.println("Success! Your Java environment is working.");
-        
-        // Let's do a little math to be fancy
-        int a = 10;
-        int b = 20;
-        System.out.println("The sum of " + a + " and " + b + " is: " + (a + b));
+        System.out.println("OOPS");
     }
 }
