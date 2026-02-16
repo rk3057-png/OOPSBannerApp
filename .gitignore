@@ -1,0 +1,19 @@
+# Compiled Java files
+*.class
+*.jar
+
+# IDE
+.classpath
+.project
+.settings/
+*.iml
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build artifacts
+build/
+dist/
+target/
