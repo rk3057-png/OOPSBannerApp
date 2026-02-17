@@ -4,7 +4,7 @@ public class UC2 {
         System.out.println(" ***   ***  *** *** ");
         System.out.println("*   * *   * *   *   ");
         System.out.println("*    ***** *** *** ");
-        System.out.println("*   * *   *   *   * ");
+        System.out.println("*   * *   *   *   * "); 
         System.out.println("*   * *   * *   *   ");
         System.out.println(" ***  *    * *  ***  ");
         System.out.println();
